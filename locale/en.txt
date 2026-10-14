@@ -1,0 +1,18 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_36704D29_3AB6_A5B7_41CB_D19E2FD7DC06.label = amphitheater
+panorama_31A2A879_3AB6_AB97_41CD_287D4C946271.label = center
+panorama_31A29045_3AB6_DBFF_41C0_EE7162841F46.label = east
+panorama_31A2FEBD_3AB6_A48F_41C4_AE29A849F203.label = north
+panorama_31A28F5C_3AB6_E58D_41A5_E5696B94BFB5.label = south
+panorama_31ABD6AC_3AB6_A48D_417F_E24AB18006FA.label = west
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 37
